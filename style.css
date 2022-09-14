@@ -4,9 +4,10 @@
         padding: 0px; 
     }
     main{
-        width: 800px;
+        width: 370px;
     }
     header{
+        width: 370px;
         background-color: black;
         display: flex;
         align-items: center;
@@ -38,13 +39,13 @@
         display: flex;
     }
     h1{
-        padding: 36px;
-        font-size: 36px;
+        padding: 20px;
+        font-size: 28px;
         font-family: 'Bebas Neue', cursive;
         font-weight: normal;
     }
     .foto{
-        height: 180px;
+        height: 150px;
         padding: 15px;
         
     }
@@ -85,7 +86,7 @@
         padding: 18px;
     }
     #compre img{
-        height: 250px;
+        height: 180px;
         padding: 60px;
     }
     #form{
@@ -93,7 +94,7 @@
        
     }
     #conteiner{
-        display: flex;
+        
         padding: 20px;
     }
     form{
@@ -110,7 +111,8 @@
         padding: 3px;
     }
     .foto-form{
-        height: 160px;
+        padding: 20px;
+        height: 120px;
     }
     #bot{
         font-family: 'Bebas Neue', cursive;
@@ -120,6 +122,7 @@
         padding: 3px;
     }
     footer{
+        width: 330px;
         background-color: black;
         text-align: center;
         color: white;
