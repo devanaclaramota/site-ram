@@ -4,10 +4,10 @@
         padding: 0px; 
     }
     main{
-        width: 370px;
+        width: 450px;
     }
     header{
-        width: 370px;
+        width: 450px;
         background-color: black;
         display: flex;
         align-items: center;
@@ -94,7 +94,7 @@
        
     }
     #conteiner{
-        
+        display: flex;
         padding: 20px;
     }
     form{
@@ -112,7 +112,7 @@
     }
     .foto-form{
         padding: 20px;
-        height: 120px;
+        height: 100px;
     }
     #bot{
         font-family: 'Bebas Neue', cursive;
@@ -122,7 +122,7 @@
         padding: 3px;
     }
     footer{
-        width: 330px;
+        width: 410px;
         background-color: black;
         text-align: center;
         color: white;
